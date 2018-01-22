@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 15, 2017 1:35:10 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nagarro.core.data.FNOLdata" table="fnoldata">
+        <id name="id" type="int">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="fnolId" >
+            <column name="fnolId" />
+        </property>
+                
+           
+       
+        <property name="name" >
+            <column name="name" />
+        </property>
+        <property name="email" >
+            <column name="email" />
+        </property>
+        <property name="date" >
+            <column name="date" />
+        </property>
+        <property name="time" >
+            <column name="time" />
+        </property>
+        <property name="ssn" >
+            <column name="ssn" />
+            
+        </property>
+        <property name="happinessIndex" >
+            <column name="happinessIndex" />
+        </property>
+        <property name="creditScoreVariation" >
+            <column name="creditScoreVariation" />
+        </property>
+        <property name="isFraud" >
+            <column name="isFraud" />
+        </property>
+        
+    </class>
+</hibernate-mapping>

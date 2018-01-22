@@ -1,0 +1,27 @@
+{
+    
+    "title": "Product",
+    "description": "A product from Acme's catalog",
+    "type": "object",
+    "properties": {
+        "date": {
+            "description": "The unique identifier for a product",
+            "type": "string"
+        },
+        "email": {
+            "description": "Name of the product",
+            "type": "string"
+        },
+        "text": {
+           "description": "Text",
+            "type": "string"
+            
+        },
+        "time": {
+            "description": "Time",
+            "type": "string"
+            
+        }
+    },
+    "required": ["date", "email", "text"]
+}

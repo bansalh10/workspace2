@@ -1,0 +1,1463 @@
+2017-08-09 16:18:05 ERROR JSONValidator:344 - Validation PASSED
+2017-08-09 16:18:06 ERROR JSONValidator:344 - Validation PASSED
+2017-08-09 16:18:06 ERROR JSONValidator:344 - Validation PASSED
+2017-08-09 21:38:49 ERROR JSONValidator:344 - Validation PASSED
+2017-08-09 21:38:49 ERROR JSONValidator:344 - Validation PASSED
+2017-08-09 21:38:49 ERROR JSONValidator:344 - Validation PASSED
+2017-08-10 00:03:26 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:03:26 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:03:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:03:27 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 00:03:27 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 00:03:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:03:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:36:18 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:36:18 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:36:18 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:36:18 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 00:36:18 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 00:36:18 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:36:18 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:08 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:08 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:08 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:08 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 00:37:08 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 00:37:08 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:09 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:37:09 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: Invalid JSON Response Received: <!DOCTYPE html><html><head><title>Apache Tomcat/8.5.11 - Error report</title><style type="text/css">h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style> </head><body><h1>HTTP Status 500 - Internal Server Error</h1><div class="line"></div><p><b>type</b> Status report</p><p><b>message</b> <u>Internal Server Error</u></p><p><b>description</b> <u>The server encountered an internal error that prevented it from fulfilling this request.</u></p><hr class="line"><h3>Apache Tomcat/8.5.11</h3></body></html>
+]
+2017-08-10 00:46:26 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:46:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:46:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:46:27 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 00:46:27 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 00:46:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:46:27 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 00:46:27 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-10 01:01:44 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 01:01:44 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 01:01:44 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 01:01:44 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 01:01:44 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 01:01:44 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 01:01:44 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 01:01:44 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-10 10:29:16 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:29:16 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:29:17 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:29:17 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 10:29:17 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 10:29:17 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:29:17 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:29:17 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-10 10:45:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:45:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:45:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:45:55 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 10:45:55 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 10:45:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:45:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 10:45:56 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-10 11:06:37 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:06:37 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:06:37 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 11:06:37 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 11:06:37 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:06:37 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:06:37 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-10 11:22:57 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:22:57 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:22:57 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-10 11:22:57 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-10 11:22:57 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:22:57 ERROR JSONValidator:332 - Validation PASSED
+2017-08-10 11:22:57 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-11 15:57:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 15:57:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 15:57:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-11 15:57:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-11 15:57:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 15:57:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 15:57:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-11 16:05:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 16:05:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 16:05:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-11 16:05:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-11 16:05:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 16:05:28 ERROR JSONValidator:332 - Validation PASSED
+2017-08-11 16:05:28 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-14 23:55:59 ERROR JSONValidator:332 - Validation PASSED
+2017-08-14 23:55:59 ERROR JSONValidator:332 - Validation PASSED
+2017-08-14 23:55:59 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-14 23:55:59 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-14 23:55:59 ERROR JSONValidator:332 - Validation PASSED
+2017-08-14 23:55:59 ERROR JSONValidator:332 - Validation PASSED
+2017-08-14 23:55:59 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 00:08:19 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 00:08:19 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 00:08:19 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 00:08:19 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 00:08:19 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 00:08:19 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 00:08:19 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 01:51:24 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:51:24 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:51:24 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 01:51:24 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 01:51:24 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:51:24 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:51:24 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 01:52:38 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:52:38 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:52:38 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 01:52:38 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 01:52:38 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:52:38 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:52:38 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 01:57:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:57:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:57:55 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 01:57:55 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 01:57:55 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:57:56 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 01:57:56 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 02:00:14 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:00:15 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:00:15 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 02:00:15 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 02:00:15 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:00:15 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:00:15 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 02:14:48 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:14:48 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:14:48 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 02:14:48 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 02:14:48 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:14:48 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:14:48 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 02:18:31 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:18:31 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:18:31 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 02:18:31 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 02:18:31 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:18:31 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:18:31 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-15 02:22:39 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:22:39 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:22:39 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-15 02:22:39 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-15 02:22:39 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:22:39 ERROR JSONValidator:332 - Validation PASSED
+2017-08-15 02:22:39 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-16 11:56:12 ERROR JSONValidator:332 - Validation PASSED
+2017-08-16 11:56:13 ERROR JSONValidator:332 - Validation PASSED
+2017-08-16 11:56:13 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-16 11:56:13 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-16 11:56:13 ERROR JSONValidator:332 - Validation PASSED
+2017-08-16 11:56:13 ERROR JSONValidator:332 - Validation PASSED
+2017-08-16 11:56:13 ERROR JSONValidator:330 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 11:59:50 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 11:59:51 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 11:59:51 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 11:59:51 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 11:59:51 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 11:59:51 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 11:59:51 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:07:58 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:07:59 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:07:59 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:07:59 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:07:59 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:07:59 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:07:59 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:07:59 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:14:44 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:14:44 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:14:44 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:14:44 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:14:44 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:14:44 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:14:44 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:14:44 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:17:40 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:17:40 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:17:40 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:17:40 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:17:40 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:17:40 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:17:40 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:17:40 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:21:21 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:21:21 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:21:21 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:21:21 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:21:21 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:21:21 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:21:21 ERROR JSONValidator:380 - Validation PASSED
+2017-08-21 12:21:21 ERROR JSONValidator:378 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:25:57 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:25:57 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:25:57 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:25:57 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:25:57 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:25:57 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:25:57 ERROR JSONValidator:382 - Validation PASSED
+2017-08-21 12:25:57 ERROR JSONValidator:380 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:29:05 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:29:05 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:29:05 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:29:05 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:29:05 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:29:05 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:29:05 ERROR JSONValidator:381 - Validation PASSED
+2017-08-21 12:29:05 ERROR JSONValidator:379 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 12:31:40 ERROR JSONValidator:379 - Validation PASSED
+2017-08-21 12:31:40 ERROR JSONValidator:379 - Validation PASSED
+2017-08-21 12:31:40 ERROR JSONValidator:379 - Validation PASSED
+2017-08-21 12:31:40 ERROR JSONValidator:377 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 12:31:40 ERROR JSONValidator:377 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 12:31:40 ERROR JSONValidator:379 - Validation PASSED
+2017-08-21 12:31:40 ERROR JSONValidator:379 - Validation PASSED
+2017-08-21 12:31:40 ERROR JSONValidator:377 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 16:11:15 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:11:15 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:11:15 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:11:15 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 16:11:15 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 16:11:15 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:11:15 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:11:15 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 16:12:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:12:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:12:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:12:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 16:12:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 16:12:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:12:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:12:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-21 16:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-21 16:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-21 16:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-21 16:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-22 23:27:52 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:27:52 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:27:52 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:27:53 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-22 23:27:53 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-22 23:27:53 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:27:53 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:27:53 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-22 23:33:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:33:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:33:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:33:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-22 23:33:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-22 23:33:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:33:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:33:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-22 23:34:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:34:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:34:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:34:38 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-22 23:34:38 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-22 23:34:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:34:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-22 23:34:39 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 00:37:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:37:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:37:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:37:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 00:37:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 00:37:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:37:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:37:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 00:47:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:47:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:47:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:47:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 00:47:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 00:47:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:47:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:47:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 00:53:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:53:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:53:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:53:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 00:53:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 00:53:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:53:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 00:53:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:08:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:08:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:08:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:08:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:08:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:08:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:08:28 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:08:28 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:09:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:09:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:09:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:09:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:09:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:09:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:09:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:09:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:29:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:30:00 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:30:00 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:30:00 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:30:00 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:30:00 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:30:00 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:30:00 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:36:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:36:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:36:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:23 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:23 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:36:57 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:58 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:58 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:58 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:36:58 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:36:58 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:58 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:36:58 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:37:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:37:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:37:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:37:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:37:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:37:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:37:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:37:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:40:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:40:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:40:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:40:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:40:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:40:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:40:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:40:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:42:29 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:42:29 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:42:29 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:42:29 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:42:29 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:42:29 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:42:29 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:42:29 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:44:51 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:44:51 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:44:51 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:44:51 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:44:52 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:44:52 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:44:52 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:44:52 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:45:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:45:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:45:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:45:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:45:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:45:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:45:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:45:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:53:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:53:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:53:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:53:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:53:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:53:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:53:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:53:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 01:57:32 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:57:32 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:57:32 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:57:32 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 01:57:32 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 01:57:32 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:57:32 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 01:57:33 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 10:54:08 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:54:08 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:54:08 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:54:08 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 10:54:08 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 10:54:08 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:54:08 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:54:08 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 10:55:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:55:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:55:38 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:55:38 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 10:55:38 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 10:55:39 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:55:39 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 10:55:39 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:00:30 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:00:30 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:00:30 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:00:30 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:00:30 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:00:30 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:00:30 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:00:30 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:08:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:08:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:08:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:08:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:08:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:08:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:08:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:08:16 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:10:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:10:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:10:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:10:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:10:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:10:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:10:59 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:10:59 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:16:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:16:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:16:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:16:02 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:16:02 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:16:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:16:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:16:02 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:21:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:21:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:21:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:21:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:21:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:21:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:21:44 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:21:44 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:23:16 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:23:17 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:23:17 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 11:26:01 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:26:01 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:26:01 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:26:01 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 11:26:01 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 11:26:01 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:26:01 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 11:26:01 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:10:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:10:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:10:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:10:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:10:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:10:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:10:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:10:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:29:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:29:02 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:29:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:29:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:29:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:29:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:29:03 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:29:03 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:30:05 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:30:05 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:30:05 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:30:05 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:30:05 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:30:05 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:30:05 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:30:05 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:39:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:39:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:39:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:39:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:39:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:39:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:39:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:39:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:41:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:41:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:41:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:06 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:06 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 13:41:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 13:41:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 13:41:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:13 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 13:41:13 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 14:46:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 14:46:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 14:46:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 14:46:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 14:46:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 14:46:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 14:46:04 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 14:46:04 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 15:03:33 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:03:33 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:03:33 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:03:33 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 15:03:33 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 15:03:33 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:03:33 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:03:33 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 15:07:18 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:07:18 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:07:18 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:07:18 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 15:07:18 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 15:07:18 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:07:18 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:07:18 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 15:22:12 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:22:12 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:22:12 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:22:12 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 15:22:12 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 15:22:12 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:22:12 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:22:12 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 15:25:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:25:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:25:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:25:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 15:25:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 15:25:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:25:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 15:25:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 16:08:49 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:08:49 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:08:49 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:08:49 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 16:08:49 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 16:08:49 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:08:49 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:08:49 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 16:10:14 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:10:14 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:10:14 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:10:14 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 16:10:14 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 16:10:14 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:10:14 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:10:14 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 16:15:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:15:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:15:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:15:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 16:15:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 16:15:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:15:46 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:15:46 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]
+2017-08-23 16:19:21 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:19:21 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:19:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:19:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: IOException Occured : Schema File not found : POST/asd.json
+]
+2017-08-23 16:19:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: object has missing required properties (["text"])
+instance: {"pointer":""}
+required: ["date","email","text"]
+missing: ["text"]
+]
+2017-08-23 16:19:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:19:22 ERROR JSONValidator:378 - Validation PASSED
+2017-08-23 16:19:22 ERROR JSONValidator:376 - Validation FAILED with message : ErrorDO [errorMessage=
+Error:-1:
+Error message: *** HTTP Response Code is Incorrect ***
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Feb 27, 2017 10:51:52 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+	<class name="com.nagarro.model.FlightClass" table="FLIGHTCLASS">
+		<id name="id" type="int">
+			<column name="ID" />
+			<generator class="native" />
+		</id>
+
+		<property name="flightClass" type="java.lang.String" update="true">
+			<column name="FLIGHTCLASS" />
+		</property>
+	</class>
+</hibernate-mapping>

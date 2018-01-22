@@ -1,0 +1,17 @@
+com\nagarro\testrunner\request\reader\RequestReaderTest.class
+com\nagarro\testrunner\validation\helper\json\JSONArrayValidatorTest.class
+com\nagarro\testrunner\validation\helper\json\JSONObjectValidatorTest.class
+com\nagarro\testrunner\validation\validator\JSONValidatorHelperTest.class
+com\nagarro\testrunner\request\reader\EnvironmentReaderTest.class
+com\nagarro\testrunner\client\HTTPPutRestClientImplTest.class
+com\nagarro\testrunner\response\persistence\report\ReportGeneratorImplTest.class
+com\nagarro\testrunner\client\HTTPDeleteRestClientImplTest.class
+com\nagarro\testrunner\validation\validator\JSONValidatorTest.class
+com\nagarro\testrunner\request\reader\EmailReaderTest.class
+com\nagarro\testrunner\client\HTTPGetRestClientImplTest.class
+com\nagarro\testrunner\client\HTTPPostRestClientImplTest.class
+com\nagarro\testrunner\manager\JSONRestManagerImplTest.class
+com\nagarro\testrunner\request\LoadTestDataImplTest.class
+com\nagarro\testrunner\client\HTTPClientImplFactoryTest.class
+com\nagarro\testrunner\service\RestServiceImplTest.class
+com\nagarro\testrunner\utils\FileNameWrapperTest.class

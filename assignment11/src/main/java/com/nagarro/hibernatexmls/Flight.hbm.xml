@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Feb 25, 2017 4:02:00 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+	<class name="com.nagarro.model.Flight" table="FLIGHTS">
+		<id name="id" type="integer">
+			<column name="Id" />
+			<generator class="native" />
+		</id>
+		<property name="flightNumber" type="java.lang.String">
+			<column name="FLIGHTNUMBER" />
+
+		</property>
+		<property name="depLoc" type="java.lang.String">
+			<column name="DEPLOC" />
+		</property>
+		<property name="arrLoc" type="java.lang.String">
+			<column name="ARRLOC" />
+		</property>
+		<property name="seatAvailability" type="java.lang.String">
+			<column name="SEATAVAILABILITY" />
+		</property>
+		<property name="validTill" type="java.sql.Date">
+			<column name="VALIDTILL" />
+		</property>
+		<property name="flightDuration" type="double">
+			<column name="FLIGHTDURATION" />
+		</property>
+		<property name="flightTime" type="int">
+			<column name="FLIGHTTIME" />
+		</property>
+		<property name="fare" type="int">
+			<column name="FARE" />
+		</property>
+		<!-- <component name="FlightClass"> <property name="flightClass"> <column 
+			name="FLIGHTCLASS" /> </property> </component> -->
+		<many-to-one name="flightclass"
+			class="com.nagarro.model.FlightClass" cascade="all"
+			not-null="true" lazy="false">
+
+			<column name="FLIGHTCLASS"></column>
+		</many-to-one>
+	</class>
+</hibernate-mapping>
